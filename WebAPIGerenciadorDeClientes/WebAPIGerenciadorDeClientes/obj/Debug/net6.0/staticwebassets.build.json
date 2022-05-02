@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2yqePHystsCklUAuyQj/sKNtvJ8RgPHcUEVFNM9PiHs=",
+  "Source": "WebAPIGerenciadorDeClientes",
+  "BasePath": "_content/WebAPIGerenciadorDeClientes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
